@@ -18,6 +18,8 @@ const reverseString = function(word) {
 
     return reversedString;
 
+    // return word.split('').reverse('').join('');
+
 };
 
 // console.log(reverseString('hello world'));
